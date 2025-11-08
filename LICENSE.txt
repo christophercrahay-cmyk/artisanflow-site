@@ -1,0 +1,19 @@
+Copyright © 2025 À Contre Courant (SASU)
+ArtisanFlow® – Marque déposée INPI n° 5157297
+
+Ce projet est protégé par le droit d’auteur et la propriété intellectuelle française.
+Toute reproduction, diffusion, modification ou utilisation commerciale, partielle ou totale,
+du code, des fichiers, du design, du logo ou des visuels associés est strictement interdite
+sans autorisation écrite du titulaire.
+
+Usage autorisé :
+- Consultation et exécution locale à titre personnel.
+- Réutilisation partielle du code uniquement à des fins d'apprentissage ou de test non commercial,
+  sous réserve de mentionner explicitement la source « ArtisanFlow® ».
+
+Usage interdit :
+- Revente, redistribution, publication, ou hébergement du code sous un autre nom.
+- Création d’un produit concurrent ou dérivé sans autorisation écrite préalable.
+
+Pour toute demande de partenariat ou licence commerciale :
+📧 acontrecourant25@gmail.com
