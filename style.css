@@ -91,52 +91,56 @@ h3 {
    CONTENU POLITIQUE
    ============================================ */
 
-.politique-content {
-    text-align: left;
-    margin-bottom: 40px;
+.meta {
+    font-size: 0.95rem;
+    color: #6c757d;
+    margin-bottom: 20px;
 }
 
-.politique-content h2 {
-    text-align: center;
+.legal-section {
+    text-align: left;
+    margin-bottom: 35px;
+    padding: 25px;
+    border: 1px solid #e9ecef;
+    border-radius: 12px;
+    background-color: #fafbff;
+}
+
+.legal-section h2 {
     margin-top: 0;
 }
 
-.politique-content p {
+.legal-section p,
+.legal-section ul,
+.legal-section li {
     font-size: 1rem;
     color: #000000;
-    margin-bottom: 20px;
     line-height: 1.8;
 }
 
-.politique-content ul {
+.legal-section ul {
     margin-left: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     padding-left: 20px;
 }
 
-.politique-content li {
-    font-size: 1rem;
-    color: #000000;
-    margin-bottom: 10px;
-    line-height: 1.8;
+.legal-section table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
 }
 
-.contact-email {
-    background-color: #f8f9fa;
-    padding: 15px;
-    border-radius: 8px;
-    margin-top: 20px;
+.legal-section table th,
+.legal-section table td {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    text-align: left;
+    font-size: 0.95rem;
 }
 
-.contact-email a {
-    color: #007BFF;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.contact-email a:hover {
-    color: #0056b3;
-    text-decoration: underline;
+.legal-section table th {
+    background-color: #f1f3ff;
+    font-weight: 600;
 }
 
 /* ============================================
@@ -145,6 +149,14 @@ h3 {
 
 .nav-link {
     margin-top: 30px;
+}
+
+.nav-link.nav-multi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
 }
 
 .nav-link a {
@@ -163,6 +175,10 @@ h3 {
     background-color: #007BFF;
     color: #ffffff;
     border-color: #007BFF;
+}
+
+.nav-link.nav-multi span {
+    color: #6c757d;
 }
 
 /* ============================================
