@@ -1,28 +1,29 @@
 # ArtisanFlow®
 
-**ArtisanFlow®** est une suite logicielle et un outil de gestion conçu pour les artisans, entrepreneurs et professionnels du bâtiment.  
-Elle permet la gestion intelligente des clients, chantiers, devis, factures, documents et suivis de projets.
+Dépôt public du site d'information et des pages légales d'**ArtisanFlow®**, application métier destinée aux artisans et professionnels du bâtiment.
+
+Ce dépôt est volontairement public afin de rendre accessibles les informations nécessaires aux utilisateurs de l'application, notamment :
+
+- la présentation publique d'ArtisanFlow ;
+- les Conditions Générales d'Utilisation ;
+- la Politique de Confidentialité.
+
+Le code source de l'application, les données utilisateurs, les configurations de production, les secrets et les mécanismes métier propriétaires ne sont pas publiés ici.
+
+## Éditeur
+
+**À Contre Courant (SASU)** — France  
+Contact : acontrecourant25@gmail.com
+
+## Hébergement
+
+Site statique HTML/CSS publié via GitHub Pages.
+
+## Propriété intellectuelle
+
+© 2025–2026 — ArtisanFlow®  
+Marque déposée auprès de l'INPI — n° 5157297 — titulaire : À Contre Courant (SASU).
 
 ---
 
-## 🧠 À propos
-Développé par **À Contre Courant (SASU)** – une société française spécialisée dans les services électriques et numériques.  
-Ce projet incarne la modernisation du travail artisanal grâce à la technologie.
-
-📍 Siège : 7 Rue Royale, 25300 Chaffois  
-📧 acontrecourant25@gmail.com
-
----
-
-## ⚖️ Mentions légales
-
-© 2025 – **ArtisanFlow®** est une marque déposée auprès de l’INPI  
-**N° 5157297 – Titulaire : À Contre Courant (SASU)**  
-Toute reproduction, diffusion ou utilisation non autorisée du nom, du code ou des visuels est strictement interdite.
-
----
-
-## 🧩 Technologies
-- HTML / CSS  
-- Hébergement via GitHub Pages  
-- Déploiement et suivi réalisés par Christopher Crahay
+Pour une présentation technique du projet, voir le dépôt public `artisanflow-showcase`.
