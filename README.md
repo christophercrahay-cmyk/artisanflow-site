@@ -26,4 +26,4 @@ Marque déposée auprès de l'INPI — n° 5157297 — titulaire : À Contre Cou
 
 ---
 
-Pour une présentation technique du projet, voir le dépôt public `artisanflow-showcase`.
+Pour la présentation technique du projet : [ArtisanFlow — vitrine technique](https://github.com/christophercrahay-cmyk/artisanflow-showcase).
